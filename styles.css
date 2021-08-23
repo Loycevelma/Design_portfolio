@@ -98,7 +98,7 @@ h1{
     text-transform: uppercase;
     margin: 0;
 }
-h2{ color: rgb(5, 4, 4);
+h2{ color: rgb(252, 245, 245);
     font-weight: 400;
     font-size: 0.5rem;
     text-transform: capitalize;
@@ -130,7 +130,7 @@ box-shadow: 30px 0px 40px rgba(0,0, 0,0.1 ),
 
 }
 #landing-text h2{
-    color:#1a9397;
+    color:#010202;
 
 }
 #landing-image{
@@ -157,7 +157,7 @@ body {
 .blob {
   position: absolute;
   top:88%;
-  fill: #4bd3dd;
+  fill: #4b6ddd;
   width: 20vmax;
   height: 20vmax;
   z-index: -1;
@@ -183,6 +183,7 @@ body {
     margin: 0;
     opacity: 50%;
     font-size: 100%;
+    text-decoration-color: rgb(3, 3, 3);
 }
 
 .btn{
@@ -220,7 +221,7 @@ h3{
 p{
     font-weight: 500;
     padding:10%;
-    color: rgb(20, 99, 110);
+    color: rgb(4, 5, 5);
     text-align: justify;
   text-align: center;
   position: static;
@@ -235,7 +236,7 @@ footer{
     padding :2rem 1rem;
     margin:auto;
      height: 50vh;
-    color: #a4f1ff;
+    color: #178a9e;
     background-color: rgba(252, 252, 252, 0.671);
     display:-webkit-flex;
 
@@ -409,7 +410,7 @@ a{
     #landing{
         display: flex;
         height: 100%;
-        background-color: rgba(252, 247, 248, 0.856);
+        background-color: rgba(25, 155, 187, 0.856);
     }
     #landing-text{height:100vh}
     #landing-image{
@@ -455,7 +456,7 @@ a{
             border-radius: 50%;
             color: black;
             margin: 0.3em;
-            background-color: rgb(152, 154, 252);
+            background-color: rgb(235, 243, 243);
             position: relative;
             transition: all 0.4s;
         }
@@ -469,7 +470,7 @@ a{
             margin:auto;
             height: 70vh;
             color: #0a0605;
-            background-color: rgba(135, 174, 219, 0.671);
+            background-color: rgba(114, 236, 245, 0.671);
             
             
         
